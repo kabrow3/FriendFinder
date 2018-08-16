@@ -20,11 +20,25 @@ var friendsArray = [
         scores: ["5", "5", "5", "5", "5", "5", "5", "5", "5", "5"]
     },
     {
+        name: "Locutus",
+        photo: "https://cdn.vox-cdn.com/thumbor/gK6zPuRbRLd3rrZgixbRxC8VcZ0=/0x27:1100x760/1200x800/filters:focal(0x27:1100x760)/cdn.vox-cdn.com/assets/2246387/Locutus_on_viewscreen.jpg",
+        scores: ["4", "4", "4", "4", "4", "4", "4", "4", "4", "4"]
+    },
+    {
+        name: "Doug",
+        photo: "https://i.pinimg.com/originals/a0/0f/04/a00f0411a1ac333c1685d23a83645f11.jpg",
+        scores: ["3", "3", "3", "3", "3", "3", "3", "3", "3", "3"]
+    },
+    {
+        name: "Reg",
+        photo: "https://i.ytimg.com/vi/ZBAz0e8ADmE/hqdefault.jpg",
+        scores: ["2", "2", "2", "2", "2", "2", "2", "2", "2", "2"]
+    },
+    {
         name: "Humperdoo",
         photo: "https://vignette.wikia.nocookie.net/marvel_dc/images/7/7e/Humperdoo_Preacher_0001.jpg/revision/latest?cb=20180729022306",
         scores: ["1", "1", "1", "1", "1", "1", "1", "1", "1", "1"]
     }
-
 ];
 
 module.exports = friendsArray;
